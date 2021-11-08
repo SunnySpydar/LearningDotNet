@@ -1,0 +1,7 @@
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\Sunny\Desktop\Source Control + Programming Homework\Homework\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
