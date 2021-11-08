@@ -42,11 +42,6 @@ namespace LearningArrays
                 Console.Write(myNumbers[i] + " ");
             }
 
-
-
-
-
-
             Console.ReadLine();
         }
 
